@@ -1,0 +1,19 @@
+{
+  "name": "face-recognition-video",
+  "version": "1.0.0",
+  "description": "Face recogintion from Video and webcam",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon  src/app.js -l -e js,html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arman Mansouri",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
