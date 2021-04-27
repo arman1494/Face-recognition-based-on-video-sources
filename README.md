@@ -2,6 +2,8 @@
 
 This application uses Javascript, nodeJS and face-api.js to recognize face in videos.
 
+[image.png]
+
 
 
 Useful Links:
